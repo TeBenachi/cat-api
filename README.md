@@ -1,10 +1,11 @@
-# cat-api
-Everyday is Caturday!  Daily Cat Pics courtesy of TheCatApi.
+# Beginner api projects: Cat-api
 
-API #2.  API using thecatapi.com. 
+Daily Cat Pics courtesy of TheCatApi.
+
+My API Journy #2.  API using thecatapi.com. 
 
 API shows a different cat image everytime page refresh. 
 
-Easy, beginer API practice. 
+
 
 Live demo:  https://tebenachi.github.io/cat-api/
